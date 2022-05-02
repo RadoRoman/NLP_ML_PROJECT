@@ -10,10 +10,6 @@
     - LSA
   
   - PreProcessing
-        
-  data visulization
-  
-  scrapper
 
 ## Study Links:
 
