@@ -1,0 +1,6 @@
+beautifulsoup4~=4.11.1
+nltk~=3.7
+pandas~=1.4.2
+regex~=2022.4.24
+numpy~=1.22.3
+gensim~=4.1.2
