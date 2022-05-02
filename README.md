@@ -10,6 +10,10 @@
     - LSA
   
   - PreProcessing
+    - data visulization
+    - scrapper
+    - chromedriver_win32
+
 
 ## Study Links:
 
