@@ -4,10 +4,12 @@
 
 ## Folders:
   
-  Topic_Modelling_LDA
+  - TopicModelling
+    - LDA
+    - NMF
+    - LSA
   
-  
-  chromedriver_win32
+  - PreProcessing
         
   data visulization
   
